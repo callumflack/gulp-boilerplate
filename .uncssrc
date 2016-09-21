@@ -1,0 +1,21 @@
+{
+	"ignore": [
+		".Modal.is-displayed .Modal-content",
+		".Form-group.is-active > label:not(.error)",
+		".affix",
+		".affix-bottom",
+		".u-hide",
+		".u-marginT0",
+		".u-padding2",
+		".Button.Button--rev",
+		".Footer-contact .Button",
+		".Post--glow",
+        ".Post + .Post",
+        "blockquote",
+        ".FlexEmbed-ratio--4by3",
+        ".Post-content a",
+        ".Post-content figure",
+        ".Post-content blockquote p",
+        ".Post-meta > a"
+	]
+}
