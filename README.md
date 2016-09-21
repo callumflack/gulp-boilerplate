@@ -1,7 +1,7 @@
 Gulp Boilerplate
 ================
 
-Forked from @drewbarontini's [boilerplate](https://github.com/drewbarontini/noise), then adapted for my basic needs.
+Forked from Drew Barontini's [boilerplate](https://github.com/drewbarontini/noise), then adapted for my basic needs.
 
 
 What does this particular Gulp setup do?
